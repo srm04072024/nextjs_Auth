@@ -17,30 +17,27 @@ This project is based on the **"Learn Auth in 1 Video"** course by **Hitesh Chou
 
 ## 🏗️ Project Structure
 
-/next-auth-app
-├── pages/
-│ ├── api/
-│ │ ├── auth/
-│ │ │ ├── signup.ts
-│ │ │ ├── login.ts
-│ │ │ ├── verify.ts
-│ │ │ ├── reset-password.ts
-│ ├── dashboard.tsx
-│ ├── login.tsx
-│ ├── signup.tsx
-├── models/
-│ ├── User.ts
-├── utils/
-│ ├── auth.ts
-│ ├── db.ts
-├── .env
-├── next.config.js
-├── package.json
+/next-auth-app  
+├── pages/  
+│ ├── api/  
+│ │ ├── auth/  
+│ │ │ ├── signup.ts  
+│ │ │ ├── login.ts  
+│ │ │ ├── verify.ts  
+│ │ │ ├── reset-password.ts  
+│ ├── dashboard.tsx  
+│ ├── login.tsx  
+│ ├── signup.tsx  
+├── models/  
+│ ├── User.ts  
+├── utils/  
+│ ├── auth.ts  
+│ ├── db.ts  
+├── .env  
+├── next.config.js  
+├── package.json  
 └── README.md
 
-markdown
-Copy
-Edit
 
 ## 🛠️ Technologies Used
 
